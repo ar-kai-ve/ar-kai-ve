@@ -63,28 +63,47 @@
 
 
 
+---
 
+### Dashboard 
 
-
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://public.tableau.com/app/profile/kai.park4525/viz/Healthcare_17477314975680/Dashboard1" title="📊 Health Data Diagnosis💓">
+        <img src="https://github.com/user-attachments/assets/39de6e10-b230-4ccc-9db9-13329db07b7e" width="220" height="130" alt="Healthcare Dashboard"/>
+        <br><sub><b>Healthcare🔗</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://public.tableau.com/app/profile/kai.park4525/viz/Data_17475537257830/Dashboard1" title="📈 Where do data analysts work?">
+        <img src="https://github.com/user-attachments/assets/9f3f3428-09d5-4ab5-beee-905b1c131c7c" width="220" height="130" alt="Data Analyst Dashboard"/>
+        <br><sub><b>Data Analyst🔗</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://public.tableau.com/app/profile/kai.park4525/viz/Netflix_17474802699320/Dashboard1" title="🎬 What the world’s watching">
+        <img src="https://github.com/user-attachments/assets/9d658342-c177-4f83-b1ac-cc6519ce3c20" width="220" height="130" alt="Netflix Dashboard"/>
+        <br><sub><b>Netflix🔗</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://public.tableau.com/app/profile/kai.park4525/viz/CustomerPersonality_17478244506800/Dashboard1" title="🛍️ Who buys What and Why?">
+        <img src="https://github.com/user-attachments/assets/14bf1525-8501-4b3d-a2f8-39d47d7d21d0" width="220" height="130" alt="Marketing Dashboard"/>
+        <br><sub><b>Marketing🔗</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 ---
+
 
 ### GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" />
 </p>
-
----
-
-### Dashboard 
-
-### 📊 Featured Dashboards
-
-
-
-
-
 
 ---
 
