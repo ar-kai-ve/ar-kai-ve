@@ -16,7 +16,7 @@
 
 ---
 
-### ⚙️ Tech Stack
+### Tech Stack
 <p align="center">
   <img src="https://img.icons8.com/color/48/tableau-software.png" title="Tableau" alt="Tableau" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" title="Excel" alt="Excel" width="40" height="40"/>
@@ -67,7 +67,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" />
 </p>
