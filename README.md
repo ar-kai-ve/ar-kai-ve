@@ -11,7 +11,7 @@
 🪄 I turn data into stories – clean, clear, and clever  
 🖤 Obsessed with making dashboards that make sense  
 🎸 Off-screen? I’m either shooting hoops or chasing good music and art around the city.  
-🛰️ Currently diving deeper into <a href="https://public.tableau.com/app/profile/kai.park4525/vizzes">data viz in Tableau</a>
+🛰️ Currently diving deeper into <a href="https://public.tableau.com/app/profile/kai.park4525/vizzes">data viz in Tableau🔗</a>
 
 
 ---
@@ -48,16 +48,19 @@
 </a>
 <a href="#" title="I zoom out before I zoom in.">
   <img src="https://img.shields.io/badge/-💡%20Critical%20Thinking-3227A7?style=for-the-badge&logoColor=white">
+
+  <br>
+
+<a href="#" title="I stay calm and think sharp.">
+  <img src="https://img.shields.io/badge/-🧩%20Problem%20Solving-BC0EEF?style=for-the-badge&logoColor=white">
+</a>  
+<a href="#" title="Focus + Flow = My tempo.">
+  <img src="https://img.shields.io/badge/-⏱️%20Time%20Management-5E57FF?style=for-the-badge&logoColor=white">
 </a>
 <a href="#" title="Change is where I grow.">
   <img src="https://img.shields.io/badge/-🍀%20Adaptability-EE018F?style=for-the-badge&logoColor=white">
 </a>
-<a href="#" title="Focus + Flow = My tempo.">
-  <img src="https://img.shields.io/badge/-⏱️%20Time%20Management-5E57FF?style=for-the-badge&logoColor=white">
-</a>
-<a href="#" title="I stay calm and think sharp.">
-  <img src="https://img.shields.io/badge/-🧩%20Problem%20Solving-BC0EEF?style=for-the-badge&logoColor=white">
-</a>
+
 
 
 
