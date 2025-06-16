@@ -70,31 +70,63 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://public.tableau.com/app/profile/kai.park4525/viz/Healthcare_17477314975680/Dashboard1" title="📊 Health Data Diagnosis💓">
+      <a href="#" title="🎮Game on! - PowerBI">
+        <img src="https://github.com/user-attachments/assets/9957e6d4-7db1-4a08-9325-53b9d67d373f" width="220" height="130" alt="Video Game"/>
+        <br><sub><b>Video Game🔗</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#" title="🌍Shaking up insights, literally - PowerBI">
+        <img src="https://github.com/user-attachments/assets/19a937d1-e385-4a01-9d48-7b1c4d8e57c9" width="220" height="130" alt="Earthquake"/>
+        <br><sub><b>Earthquake🔗</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#" title="🛒 Clicks andcarts - PowerBI">
+        <img src="https://github.com/user-attachments/assets/57c467c5-e29b-4779-8b4b-87c943a46e16" width="220" height="130" alt="Marketing"/>
+        <br><sub><b>Marketing🔗</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#" title="🏡Stays, stats & sleeper trends - PowerBI">
+        <img src="https://github.com/user-attachments/assets/4e444de7-e072-475e-bfac-84e4d4e54a65" width="220" height="130" alt="Airbnb"/>
+        <br><sub><b>Airbnb🔗</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://public.tableau.com/app/profile/kai.park4525/viz/Healthcare_17477314975680/Dashboard1" title="📊 Health Data Diagnosis💓 - Tableau">
         <img src="https://github.com/user-attachments/assets/39de6e10-b230-4ccc-9db9-13329db07b7e" width="220" height="130" alt="Healthcare Dashboard"/>
         <br><sub><b>Healthcare🔗</b></sub>
       </a>
     </td>
     <td align="center">
-      <a href="https://public.tableau.com/app/profile/kai.park4525/viz/Data_17475537257830/Dashboard1" title="📈 Where do data analysts work?">
+      <a href="https://public.tableau.com/app/profile/kai.park4525/viz/Data_17475537257830/Dashboard1" title="📈 Where do data analysts work? - Tableau">
         <img src="https://github.com/user-attachments/assets/9f3f3428-09d5-4ab5-beee-905b1c131c7c" width="220" height="130" alt="Data Analyst Dashboard"/>
         <br><sub><b>Data Analyst🔗</b></sub>
       </a>
     </td>
     <td align="center">
-      <a href="https://public.tableau.com/app/profile/kai.park4525/viz/Netflix_17474802699320/Dashboard1" title="🎬 What the world’s watching">
+      <a href="https://public.tableau.com/app/profile/kai.park4525/viz/Netflix_17474802699320/Dashboard1" title="🎬 What the world’s watching - Tableau">
         <img src="https://github.com/user-attachments/assets/9d658342-c177-4f83-b1ac-cc6519ce3c20" width="220" height="130" alt="Netflix Dashboard"/>
         <br><sub><b>Netflix🔗</b></sub>
       </a>
     </td>
     <td align="center">
-      <a href="https://public.tableau.com/app/profile/kai.park4525/viz/CustomerPersonality_17478244506800/Dashboard1" title="🛍️ Who buys What and Why?">
+      <a href="https://public.tableau.com/app/profile/kai.park4525/viz/CustomerPersonality_17478244506800/Dashboard1" title="🛍️ Who buys What and Why? - Tableau">
         <img src="https://github.com/user-attachments/assets/14bf1525-8501-4b3d-a2f8-39d47d7d21d0" width="220" height="130" alt="Marketing Dashboard"/>
         <br><sub><b>Marketing🔗</b></sub>
       </a>
     </td>
   </tr>
 </table>
+
 
 
 ---
