@@ -6,7 +6,7 @@
 ---
 
 ### About Me
-📍 Based in Auckland, New Zealand. From Seoul, Korea.
+📍 Based in Auckland, New Zealand.
 🎓 Studied Statistics & Psychology at the University of Auckland  
 🪄 I turn data into stories – clean, clear, and clever  
 🖤 Obsessed with making dashboards that make sense  
