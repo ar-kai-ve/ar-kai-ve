@@ -102,7 +102,7 @@
 
 ### GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ar-kai-ve&show_icons=true&theme=radical" />
 </p>
 
 ---
@@ -111,10 +111,10 @@
 <div align="center">
   <h3>🌐 Connect with me</h3>
   <div style="display: flex; justify-content: center; gap: 30px; padding-top: 10px;">
-    <a href="mailto:your@email.com" target="_blank" title="Email">
+    <a href="mailto:kangk1211@gmail.com" target="_blank" title="Email">
       <img src="https://img.icons8.com/neon/96/ffffff/new-post.png" alt="Email" height="40">
     </a>
-    <a href="https://linkedin.com/in/your-profile" target="_blank" title="LinkedIn">
+    <a href="https://www.linkedin.com/in/yigang-park/" target="_blank" title="LinkedIn">
       <img src="https://img.icons8.com/neon/96/ffffff/linkedin.png" alt="LinkedIn" height="40">
     </a>
     <a href="https://yourportfolio.com" target="_blank" title="Portfolio">
@@ -123,7 +123,7 @@
     <a href="https://yourblog.com" target="_blank" title="Blog">
       <img src="https://img.icons8.com/neon/96/ffffff/topic.png" alt="Blog" height="40">
     </a>
-    <a href="https://github.com/yourgithub" target="_blank" title="GitHub">
+    <a href="https://github.com/ar-kai-ve" target="_blank" title="GitHub">
       <img src="https://img.icons8.com/neon/96/ffffff/github.png" alt="GitHub" height="40">
     </a>
   </div>
