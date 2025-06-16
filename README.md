@@ -36,31 +36,38 @@
 
 ---
 <h3>Skills</h3>
-
-<a href="#" title="I connect through clarity and curiosity.">
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; margin-bottom: 12px;">
+<a href="#" title="I connect through clarity and curiosity.
+Living in New Zealand, I’ve had the chance to connect with people from all over the world. I value it as a way to connect, learn, and grow. Talking to people from all walks of life helps me expand my worldview. Living in New Zealand has given me the opportunity to meet people from many different cultures, and through those experiences, I’ve become a more flexible communicator.🗯️">
   <img src="https://img.shields.io/badge/-🗯️%20Communication-12B8FF?style=for-the-badge&logoColor=white">
 </a>
-<a href="#" title="I thrive when we win together.">
+<a href="#" title="I thrive when we win together.
+I feel teamwork most deeply when I play basketball. It’s one of the reasons I love the sport. At university, I joined a basketball club where we all had to learn how to support each other, regardless of gender or skill. I was grateful to have teammates who looked out for me, and their support made me want to give even more to the team. That experience taught me that good teamwork is built on trust, care, and shared effort.👏🏼">
   <img src="https://img.shields.io/badge/-👏🏼%20Teamwork-FD4499?style=for-the-badge&logoColor=white">
 </a>
-<a href="#" title="Ideas are my favorite data points.">
+<a href="#" title="Ideas are my favorite data points.
+For me, creativity is a mindset. Not just about making things look good, but about finding unexpected connections and better ways to do things. I enjoy turning limitations into opportunities, and I love the moment when a new idea suddenly clicks into place. These days, I often find inspiration through platforms like Instagram and YouTube, where seeing different ideas and styles sparks new ways of thinking for me.🎨">
   <img src="https://img.shields.io/badge/-🎨%20Creativity-D34DEE?style=for-the-badge&logoColor=white">
 </a>
-<a href="#" title="I zoom out before I zoom in.">
+<a href="#" title="I zoom out before I zoom in.
+Critical thinking is one of the reasons I chose to study psychology. I chose psychology because I wanted to understand why people think and behave the way they do. Psychology taught me to think critically, not just about others, but about myself. By studying human behaviour, I learned how to pause before jumping to conclusions, ask better questions and read situations more clearly.💡">
   <img src="https://img.shields.io/badge/-💡%20Critical%20Thinking-3227A7?style=for-the-badge&logoColor=white">
+</div>
 
-  <br>
-
-<a href="#" title="I stay calm and think sharp.">
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
+<a href="#" title="I stay calm and think sharp.  
+When problems come up, I prefer to approach them flexibly. While working part-time, I often tried to solve issues on my own if I could, but I also knew when to ask for help. I believe finding realistic, collaborative solutions is more valuable than pretending to have all the answers alone.🧩">
   <img src="https://img.shields.io/badge/-🧩%20Problem%20Solving-BC0EEF?style=for-the-badge&logoColor=white">
 </a>  
-<a href="#" title="Focus + Flow = My tempo.">
+<a href="#" title="Focus + Flow = My tempo.
+I value other people’s time as much as I value my own. That mindset drives me to work efficiently and keep things moving. That’s why I’m always planning, adjusting, and taking action. I work best when I have a clear plan, but I’m also quick to revise it when things change. I find energy in working fast and staying focused, maybe it’s the Korean in me.⏱️">
   <img src="https://img.shields.io/badge/-⏱️%20Time%20Management-5E57FF?style=for-the-badge&logoColor=white">
 </a>
-<a href="#" title="Change is where I grow.">
+<a href="#" title="Change is where I grow.
+Adaptability is something I’m truly proud of. When I first moved abroad, I worried a lot about whether I could adjust. But living in New Zealand turned out to be one of the best things that ever happened to me. What I feared would be uncomfortable ended up exciting and full of discovery. I’ve learned that I don’t just adapt to new environments, I thrive in them. And now, I look forward to whatever comes next.🍀">
   <img src="https://img.shields.io/badge/-🍀%20Adaptability-EE018F?style=for-the-badge&logoColor=white">
 </a>
-
+</div>
 
 
 ---
