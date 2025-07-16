@@ -148,7 +148,7 @@ Adaptability is something I’m truly proud of. When I first moved abroad, I wor
 
 &nbsp;
 
-🏙️ City Visual Journal
+🏙️ Destination Branding
 
 <div style="overflow-x: auto; white-space: nowrap;">
   <img src="https://github.com/user-attachments/assets/419224f7-17db-4d4e-894f-9d658f2ca314" height="120" style="display:inline-block; margin:0; padding:0; border:0;" />
@@ -175,7 +175,7 @@ Adaptability is something I’m truly proud of. When I first moved abroad, I wor
 </div>
 
 
-🎵 Music & Culture
+🎵 Experience Branding
 
 <div style="overflow-x: auto; white-space: nowrap;">
   <img src="https://github.com/user-attachments/assets/da472255-7492-4aaa-ad1e-56dba609b02d" height="120" style="display:inline-block; margin:0; padding:0; border:0;" />
@@ -356,10 +356,23 @@ Adaptability is something I’m truly proud of. When I first moved abroad, I wor
   </p>
 </details>
 
-
-
-
 ---
+### Batch 
+
+<p align="center" style="margin:0; padding:0; line-height:0;">
+  <img src="https://github.com/user-attachments/assets/3b4252c6-3dea-4686-ad4a-66687c629803" width="50" style="margin:0; padding:0; border:0;" />
+  <img src="https://github.com/user-attachments/assets/9aac6f5a-6652-459d-a57c-da29e1784771" width="50" style="margin:0; padding:0; border:0;" />
+  <img src="https://github.com/user-attachments/assets/329277e8-63f3-4778-9dc6-7c4295bd44f9" width="50" style="margin:0; padding:0; border:0;" />
+  <img src="https://github.com/user-attachments/assets/b3f50644-5945-40c1-8a9e-f99ea911dd88" width="50" style="margin:0; padding:0; border:0;" />
+  <img src="https://github.com/user-attachments/assets/3f7db9dd-ffe8-499f-9e14-f89da1f6a34c" width="50" style="margin:0; padding:0; border:0;" />
+  <img src="https://github.com/user-attachments/assets/a6377cdf-6505-4980-b9ec-b8b95562c8f8" width="50" style="margin:0; padding:0; border:0;" />
+  <img src="https://github.com/user-attachments/assets/1fc048bd-80a4-43a0-9ccb-dc3620766c42" width="50" style="margin:0; padding:0; border:0;" />
+  <img src="https://github.com/user-attachments/assets/50b4aebb-eec7-42ba-8cbc-28a86307d2eb" width="50" style="margin:0; padding:0; border:0;" />
+</p>
+
+
+
+<!-----
 
 
 ### GitHub Stats
@@ -367,9 +380,11 @@ Adaptability is something I’m truly proud of. When I first moved abroad, I wor
   <img src="https://github-readme-stats.vercel.app/api?username=ar-kai-ve&show_icons=true&theme=radical" />
 </p>
 
----
+----->
 
-<!-- 🌐 Connect with me -->
+
+--- 
+
 <div align="center">
   <h3>🌐 Connect with me</h3>
   <div style="display: flex; justify-content: center; gap: 30px; padding-top: 10px;">
