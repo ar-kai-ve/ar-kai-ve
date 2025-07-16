@@ -6,7 +6,7 @@
 ---
 
 ### About Me
-📍 Based in Auckland, New Zealand.
+📍 Based in Auckland, New Zealand  
 🎓 Studied Statistics & Psychology at the University of Auckland  
 🪄 I turn data into stories – clean, clear, and clever  
 🖤 Obsessed with making dashboards that make sense  
@@ -133,6 +133,176 @@ Adaptability is something I’m truly proud of. When I first moved abroad, I wor
     </td>
   </tr>
 </table>
+
+
+
+---
+
+### Certificates
+
+<p align="center">  📂 Overview
+
+<p align="center">
+  <a href="https://github.com/user-attachments/files/21250757/%40UoA.Bachelor.pdf">
+    <img src="https://github.com/user-attachments/assets/15b0961c-4d38-45c2-b1de-b1330b8d1e07" height="80" width="66" title="University of Auckland BSc" />
+  </a>
+  <a href="https://github.com/user-attachments/files/21250758/%40Data.Visualization.pdf">
+    <img src="https://github.com/user-attachments/assets/7d7b6d7b-b228-4fd2-9059-568c5dc28461" height="80" title="JHU Data Visualization" />
+  </a>
+  <a href="https://github.com/user-attachments/files/21246751/%40Google.Data.Analytics.pdf">
+    <img src="https://github.com/user-attachments/assets/b20fc46c-3fa1-418d-be07-51a3742ab3f8" height="80" title="Google Data Analytics" />
+  </a>
+  <a href="https://github.com/user-attachments/files/21246747/%40Microsoft.Power.BI.Analyst.pdf">
+    <img src="https://github.com/user-attachments/assets/a2a0611e-d2b9-43c6-80da-27c1a5b4ef0d" height="80" title="Microsoft Power BI" />
+  </a>
+  <a href="https://github.com/user-attachments/files/21246746/%40Tableau.Business.Intelligence.Analyst.pdf">
+    <img src="https://github.com/user-attachments/assets/121df2dd-d65c-4344-ae0f-4a883b222d83" height="80" title="Tableau BI" />
+  </a>
+  <a href="https://github.com/user-attachments/files/21251042/Social.Media.Management.pdf">
+    <img src="https://github.com/user-attachments/assets/01fa56cc-8f22-4b17-a0e3-6f4b1d77b274" height="80" title="Meta Social Media" />
+  </a>
+  <a href="https://github.com/user-attachments/files/21246745/%40Adobe.Marketing.Specialist.pdf">
+    <img src="https://github.com/user-attachments/assets/2e267e99-1a5c-42ca-b014-4130762615eb" height="80" title="Adobe Digital Marketing" />
+  </a>
+</p>
+
+
+
+<i><sub>↓🖱️ Click on any certificate title below to expand details and view the PDF</sub></i></p>
+
+
+
+#### <small>📊 Data</small>
+
+<details>
+  <summary><b><small>Google Data Analytics</small></b></summary>
+  <p>
+    <sub>
+      8-course certification by Google and Coursera covering spreadsheets, SQL, R, and data visualization.  
+      Designed for entry-level analysts to develop job-ready skills.<br><br>
+      <a href="https://github.com/user-attachments/files/21246751/%40Google.Data.Analytics.pdf">📄 View Certificate PDF</a>
+    </sub>
+  </p>
+</details>
+
+<details>
+  <summary><b><small>IBM Data Analyst</small></b></summary>
+  <p>
+    <sub>
+      Covers Python, SQL, data wrangling, and dashboarding with IBM Cognos.  
+      Emphasizes practical application through labs and real datasets.<br><br>
+      <a href="https://github.com/user-attachments/files/21246752/%40IBM.Data.Analyst.pdf">📄 View Certificate PDF</a>
+    </sub>
+  </p>
+</details>
+
+<details>
+  <summary><b><small>Microsoft Data Visualization</small></b></summary>
+  <p>
+    <sub>
+      Teaches visual storytelling with Power BI and Excel.  
+      Focus on layout, chart design, accessibility, and insights communication.<br><br>
+      <a href="https://github.com/user-attachments/files/21246748/%40Microsoft.Data.Visualization.pdf">📄 View Certificate PDF</a>
+    </sub>
+  </p>
+</details>
+
+<details>
+  <summary><b><small>Microsoft Power BI Analyst</small></b></summary>
+  <p>
+    <sub>
+      Course on data modeling, DAX, interactivity, and reporting in Power BI.  
+      Final project includes full dashboard build and publishing.<br><br>
+      <a href="https://github.com/user-attachments/files/21246747/%40Microsoft.Power.BI.Analyst.pdf">📄 View Certificate PDF</a>
+    </sub>
+  </p>
+</details>
+
+<details>
+  <summary><b><small>Tableau Business Intelligence Analyst</small></b></summary>
+  <p>
+    <sub>
+      Tableau fundamentals with calculated fields, parameters, and storytelling dashboards.  
+      Use cases for KPI tracking and business decision-making.<br><br>
+      <a href="https://github.com/user-attachments/files/21246746/%40Tableau.Business.Intelligence.Analyst.pdf">📄 View Certificate PDF</a>
+    </sub>
+  </p>
+</details>
+
+<details>
+  <summary><b><small>Data Visualization Specialization (Johns Hopkins University)</small></b></summary>
+  <p>
+    <sub>
+      3-course online specialization from Johns Hopkins via Coursera.  
+      Focuses on data design principles, visual cognition, and effective storytelling through visualization.<br><br>
+      <a href="https://github.com/user-attachments/files/21250758/%40Data.Visualization.pdf">📄 View Certificate PDF</a>
+    </sub>
+  </p>
+</details>
+
+
+
+#### <small>🤖 Generative AI</small>
+
+<details>
+  <summary><b><small>Generative AI Data Analyst</small></b></summary>
+  <p>
+    <sub>
+      Online specialization from DeepLearning.AI and OpenAI on applied generative AI for data workflows.  
+      Covers prompt engineering, API integration, LangChain, vector databases, and pipeline automation with real-world GenAI tools.<br><br>
+      <a href="https://github.com/user-attachments/files/21246750/%40Generative.AI.Data.Analyst.Specialization.pdf">📄 View Certificate PDF</a>
+    </sub>
+  </p>
+</details>
+
+
+
+#### <small>🎯 Marketing</small>
+
+<details>
+  <summary><b><small>Meta Marketing Professional Certificate</small></b></summary>
+  <p>
+    <sub>
+      Foundations of digital marketing, branding, and content strategy.  
+      Covers channels, personas, and marketing objectives for campaign success.<br><br>
+      <a href="https://github.com/user-attachments/files/21246755/Meta.-.Data.Analytics.Methods.for.Marketing.pdf">📄 View Certificate PDF</a>
+    </sub>
+  </p>
+</details>
+
+<details>
+  <summary><b><small>Meta Marketing Data Analytics</small></b></summary>
+  <p>
+    <sub>
+      Training on marketing metrics, data analysis, and attribution modeling.  
+      Includes experimentation, A/B testing, and business decision analytics.<br><br>
+      <a href="https://github.com/user-attachments/files/21246755/Meta.-.Data.Analytics.Methods.for.Marketing.pdf">📄 View Certificate PDF</a>
+    </sub>
+  </p>
+</details>
+
+<details>
+  <summary><b><small>Meta Social Media Marketing</small></b></summary>
+  <p>
+    <sub>
+      Course focused on growing audiences and engagement through social channels.  
+      Includes content planning, advertising strategy, and campaign measurement.<br><br>
+      <a href="https://github.com/user-attachments/files/21251042/Social.Media.Management.pdf">📄 View Certificate PDF</a>
+    </sub>
+  </p>
+</details>
+
+<details>
+  <summary><b><small>Adobe Digital Marketing</small></b></summary>
+  <p>
+    <sub>
+      Adobe-certified course on customer journeys, funnels, and digital content effectiveness.  
+      Practical focus on cross-channel strategy and brand messaging.<br><br>
+      <a href="https://github.com/user-attachments/files/21246745/%40Adobe.Marketing.Specialist.pdf">📄 View Certificate PDF</a>
+    </sub>
+  </p>
+</details>
+
 
 
 
