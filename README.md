@@ -138,6 +138,59 @@ Adaptability is something I’m truly proud of. When I first moved abroad, I wor
 
 ---
 
+### Marketing Poster Highlight
+
+<sub>
+  ✨ A personal creative project crafted in Canva using my original photography.<br>
+  🎨 Designed to blend <b>visual storytelling</b>, <b>brand tone</b>, and <b>strategic messaging</b>.<br>
+  📸 Reflects not only technical skills, but a <i>distinct marketing sensibility</i> and creative identity.
+</sub>
+
+&nbsp;
+
+🏙️ City Visual Journal
+
+<div style="overflow-x: auto; white-space: nowrap;">
+  <img src="https://github.com/user-attachments/assets/419224f7-17db-4d4e-894f-9d658f2ca314" height="120" style="display:inline-block; margin:0; padding:0; border:0;" />
+  <img src="https://github.com/user-attachments/assets/71d3200c-eefc-4570-9831-faa4a7a17ed8" height="120" style="display:inline-block; margin:0; padding:0; border:0;" />
+  <img src="https://github.com/user-attachments/assets/d21d0f2a-4e84-4937-8946-0a5ed493fa01" height="120" style="display:inline-block; margin:0; padding:0; border:0;" />
+  <img src="https://github.com/user-attachments/assets/38818c20-0cba-4c2e-8f9c-88618c0ab937" height="120" style="display:inline-block; margin:0; padding:0; border:0;" />
+  <img src="https://github.com/user-attachments/assets/6b500c54-4a70-4c30-b2a5-1f22ce0d0c52" height="120" style="display:inline-block; margin:0; padding:0; border:0;" />
+  <img src="https://github.com/user-attachments/assets/b9b849aa-4dfa-4d7a-91e6-27e8be17db5b" height="120" style="display:inline-block; margin:0; padding:0; border:0;" />
+  <img src="https://github.com/user-attachments/assets/f787654d-4880-4482-b213-da1d12d81be2" height="120" style="display:inline-block; margin:0; padding:0; border:0;" />
+  <img src="https://github.com/user-attachments/assets/b00ad671-489d-4213-9857-06355796080d" height="120" style="display:inline-block; margin:0; padding:0; border:0;" />
+</div>
+
+
+🏀 Lifestyle Branding
+
+<div style="overflow-x: auto; white-space: nowrap;">
+  <img src="https://github.com/user-attachments/assets/8e5464a7-edea-444d-90ca-529b1ef9715b" height="120" style="display:inline-block; margin:0; padding:0; border:0;" />
+  <img src="https://github.com/user-attachments/assets/b3bf1668-253e-4716-9fa6-5b60db7a740d" height="120" style="display:inline-block; margin:0; padding:0; border:0;" />
+  <img src="https://github.com/user-attachments/assets/73ed6c4e-5653-425e-810a-1301aeff125f" height="120" style="display:inline-block; margin:0; padding:0; border:0;" />
+  <img src="https://github.com/user-attachments/assets/10989e99-0000-4fd4-a738-4ca3a4146944" height="120" style="display:inline-block; margin:0; padding:0; border:0;" />
+  <img src="https://github.com/user-attachments/assets/a049422d-1bd4-4cc0-854f-d3c66393dcdf" height="120" style="display:inline-block; margin:0; padding:0; border:0;" />
+  <img src="https://github.com/user-attachments/assets/42884340-e24c-4d5b-bac6-a8d978bd8bf7" height="120" style="display:inline-block; margin:0; padding:0; border:0;" />
+  <img src="https://github.com/user-attachments/assets/e0799583-80f0-4fc0-83f2-47a355a6b272" height="120" style="display:inline-block; margin:0; padding:0; border:0;" />
+</div>
+
+
+🎵 Music & Culture
+
+<div style="overflow-x: auto; white-space: nowrap;">
+  <img src="https://github.com/user-attachments/assets/da472255-7492-4aaa-ad1e-56dba609b02d" height="120" style="display:inline-block; margin:0; padding:0; border:0;" />
+  <img src="https://github.com/user-attachments/assets/e532cfb6-9e18-419c-b778-4437cb35a6fa" height="120" style="display:inline-block; margin:0; padding:0; border:0;" />
+  <img src="https://github.com/user-attachments/assets/72ca7e91-2228-43dd-9b21-3a6bb9f36291" height="120" style="display:inline-block; margin:0; padding:0; border:0;" />
+  <img src="https://github.com/user-attachments/assets/d41609c6-0c98-4129-b67e-36556d54b407" height="120" style="display:inline-block; margin:0; padding:0; border:0;" />
+  <img src="https://github.com/user-attachments/assets/8ac0d156-66c4-4700-ab41-abea10b1ec23" height="120" style="display:inline-block; margin:0; padding:0; border:0;" />
+  <img src="https://github.com/user-attachments/assets/07606047-2508-4921-8bf7-35eca8189686" height="120" style="display:inline-block; margin:0; padding:0; border:0;" />
+  <img src="https://github.com/user-attachments/assets/a1c5fbd8-cd15-440f-b623-63329c166a26" height="120" style="display:inline-block; margin:0; padding:0; border:0;" />
+  <img src="https://github.com/user-attachments/assets/1be2088a-c27a-4699-9d67-51a4fcb0357c" height="120" style="display:inline-block; margin:0; padding:0; border:0;" />
+  <img src="https://github.com/user-attachments/assets/9c83191a-1be7-44f4-bc91-e70e41afab68" height="120" style="display:inline-block; margin:0; padding:0; border:0;" />
+</div>
+
+---
+
 ### Certificates
 
 <p align="center">  📂 Overview
@@ -240,7 +293,7 @@ Adaptability is something I’m truly proud of. When I first moved abroad, I wor
   </p>
 </details>
 
-
+&nbsp;
 
 #### <small>🤖 Generative AI</small>
 
@@ -255,7 +308,7 @@ Adaptability is something I’m truly proud of. When I first moved abroad, I wor
   </p>
 </details>
 
-
+&nbsp;
 
 #### <small>🎯 Marketing</small>
 
