@@ -151,13 +151,15 @@ Adaptability is something I’m truly proud of. When I first moved abroad, I wor
 🏙️ Destination Branding
 
 <div style="overflow-x: auto; white-space: nowrap;">
+  <img src="https://github.com/user-attachments/assets/b9b849aa-4dfa-4d7a-91e6-27e8be17db5b" height="120" style="display:inline-block; margin:0; padding:0; border:0;" />
+  <img src="https://github.com/user-attachments/assets/f787654d-4880-4482-b213-da1d12d81be2" height="120" style="display:inline-block; margin:0; padding:0; border:0;" />
   <img src="https://github.com/user-attachments/assets/419224f7-17db-4d4e-894f-9d658f2ca314" height="120" style="display:inline-block; margin:0; padding:0; border:0;" />
   <img src="https://github.com/user-attachments/assets/71d3200c-eefc-4570-9831-faa4a7a17ed8" height="120" style="display:inline-block; margin:0; padding:0; border:0;" />
   <img src="https://github.com/user-attachments/assets/d21d0f2a-4e84-4937-8946-0a5ed493fa01" height="120" style="display:inline-block; margin:0; padding:0; border:0;" />
   <img src="https://github.com/user-attachments/assets/38818c20-0cba-4c2e-8f9c-88618c0ab937" height="120" style="display:inline-block; margin:0; padding:0; border:0;" />
   <img src="https://github.com/user-attachments/assets/6b500c54-4a70-4c30-b2a5-1f22ce0d0c52" height="120" style="display:inline-block; margin:0; padding:0; border:0;" />
+  <img src="https://github.com/user-attachments/assets/419224f7-17db-4d4e-894f-9d658f2ca314" height="120" style="display:inline-block; margin:0; padding:0; border:0;" />
   <img src="https://github.com/user-attachments/assets/b9b849aa-4dfa-4d7a-91e6-27e8be17db5b" height="120" style="display:inline-block; margin:0; padding:0; border:0;" />
-  <img src="https://github.com/user-attachments/assets/f787654d-4880-4482-b213-da1d12d81be2" height="120" style="display:inline-block; margin:0; padding:0; border:0;" />
   <img src="https://github.com/user-attachments/assets/b00ad671-489d-4213-9857-06355796080d" height="120" style="display:inline-block; margin:0; padding:0; border:0;" />
 </div>
 
@@ -357,17 +359,17 @@ Adaptability is something I’m truly proud of. When I first moved abroad, I wor
 </details>
 
 ---
-### Batch 
+### Badch 
 
 <p align="center" style="margin:0; padding:0; line-height:0;">
-  <img src="https://github.com/user-attachments/assets/3b4252c6-3dea-4686-ad4a-66687c629803" width="50" style="margin:0; padding:0; border:0;" />
-  <img src="https://github.com/user-attachments/assets/9aac6f5a-6652-459d-a57c-da29e1784771" width="50" style="margin:0; padding:0; border:0;" />
-  <img src="https://github.com/user-attachments/assets/329277e8-63f3-4778-9dc6-7c4295bd44f9" width="50" style="margin:0; padding:0; border:0;" />
-  <img src="https://github.com/user-attachments/assets/b3f50644-5945-40c1-8a9e-f99ea911dd88" width="50" style="margin:0; padding:0; border:0;" />
-  <img src="https://github.com/user-attachments/assets/3f7db9dd-ffe8-499f-9e14-f89da1f6a34c" width="50" style="margin:0; padding:0; border:0;" />
-  <img src="https://github.com/user-attachments/assets/a6377cdf-6505-4980-b9ec-b8b95562c8f8" width="50" style="margin:0; padding:0; border:0;" />
-  <img src="https://github.com/user-attachments/assets/1fc048bd-80a4-43a0-9ccb-dc3620766c42" width="50" style="margin:0; padding:0; border:0;" />
-  <img src="https://github.com/user-attachments/assets/50b4aebb-eec7-42ba-8cbc-28a86307d2eb" width="50" style="margin:0; padding:0; border:0;" />
+  <img src="https://github.com/user-attachments/assets/50b4aebb-eec7-42ba-8cbc-28a86307d2eb" width="70" style="margin:0; padding:0; border:0;" />
+  <img src="https://github.com/user-attachments/assets/31d59ef8-af3f-420f-8f92-8b5c91a7e212" width="70" style="margin:0; padding:0; border:0;" />
+  <img src="https://github.com/user-attachments/assets/a4666c50-f21c-4b8e-86a6-132426cf7b85" width="70" style="margin:0; padding:0; border:0;" />
+  <img src="https://github.com/user-attachments/assets/80866334-782e-4d10-a591-3bd7ec66ff42" width="70" style="margin:0; padding:0; border:0;" />
+  <img src="https://github.com/user-attachments/assets/2d47fbfa-1c2e-4c64-933f-bfb58a753390" width="70" style="margin:0; padding:0; border:0;" />
+  <img src="https://github.com/user-attachments/assets/3f7db9dd-ffe8-499f-9e14-f89da1f6a34c" width="70" style="margin:0; padding:0; border:0;" />
+  <img src="https://github.com/user-attachments/assets/8025f009-c475-4911-b24a-e192ec329ef8" width="70" style="margin:0; padding:0; border:0;" />
+  <img src="https://github.com/user-attachments/assets/fbc383ad-645a-42af-b3aa-be257e3d33f6" width="70" style="margin:0; padding:0; border:0;" />
 </p>
 
 
@@ -388,16 +390,16 @@ Adaptability is something I’m truly proud of. When I first moved abroad, I wor
 <div align="center">
   <h3>🌐 Connect with me</h3>
   <div style="display: flex; justify-content: center; gap: 30px; padding-top: 10px;">
-    <a href="mailto:kangk1211@gmail.com" target="_blank" title="Email">
+    <a href="email:kangk1211@gmail.com" target="_blank" title="Email">
       <img src="https://img.icons8.com/neon/96/ffffff/new-post.png" alt="Email" height="40">
     </a>
     <a href="https://www.linkedin.com/in/yigang-park/" target="_blank" title="LinkedIn">
       <img src="https://img.icons8.com/neon/96/ffffff/linkedin.png" alt="LinkedIn" height="40">
     </a>
-    <a href="https://yourportfolio.com" target="_blank" title="Portfolio">
+    <a href="Coming Soon" target="_blank" title="Portfolio">
       <img src="https://img.icons8.com/neon/96/ffffff/internet.png" alt="Portfolio" height="40">
     </a>
-    <a href="https://yourblog.com" target="_blank" title="Blog">
+    <a href="Coming Soon" target="_blank" title="Blog">
       <img src="https://img.icons8.com/neon/96/ffffff/topic.png" alt="Blog" height="40">
     </a>
     <a href="https://github.com/ar-kai-ve" target="_blank" title="GitHub">
