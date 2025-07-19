@@ -359,7 +359,7 @@ Adaptability is something I’m truly proud of. When I first moved abroad, I wor
 </details>
 
 ---
-### Badch 
+### Badge 
 
 <p align="center" style="margin:0; padding:0; line-height:0;">
   <img src="https://github.com/user-attachments/assets/50b4aebb-eec7-42ba-8cbc-28a86307d2eb" width="70" style="margin:0; padding:0; border:0;" />
@@ -367,9 +367,9 @@ Adaptability is something I’m truly proud of. When I first moved abroad, I wor
   <img src="https://github.com/user-attachments/assets/a4666c50-f21c-4b8e-86a6-132426cf7b85" width="70" style="margin:0; padding:0; border:0;" />
   <img src="https://github.com/user-attachments/assets/80866334-782e-4d10-a591-3bd7ec66ff42" width="70" style="margin:0; padding:0; border:0;" />
   <img src="https://github.com/user-attachments/assets/2d47fbfa-1c2e-4c64-933f-bfb58a753390" width="70" style="margin:0; padding:0; border:0;" />
-  <img src="https://github.com/user-attachments/assets/3f7db9dd-ffe8-499f-9e14-f89da1f6a34c" width="70" style="margin:0; padding:0; border:0;" />
   <img src="https://github.com/user-attachments/assets/8025f009-c475-4911-b24a-e192ec329ef8" width="70" style="margin:0; padding:0; border:0;" />
   <img src="https://github.com/user-attachments/assets/fbc383ad-645a-42af-b3aa-be257e3d33f6" width="70" style="margin:0; padding:0; border:0;" />
+  <img src="https://github.com/user-attachments/assets/3f7db9dd-ffe8-499f-9e14-f89da1f6a34c" width="70" style="margin:0; padding:0; border:0;" />
 </p>
 
 
@@ -390,7 +390,7 @@ Adaptability is something I’m truly proud of. When I first moved abroad, I wor
 <div align="center">
   <h3>🌐 Connect with me</h3>
   <div style="display: flex; justify-content: center; gap: 30px; padding-top: 10px;">
-    <a href="email:kangk1211@gmail.com" target="_blank" title="Email">
+    <a href="mailto:kangk1211@gmail.com" target="_blank" title="Email">
       <img src="https://img.icons8.com/neon/96/ffffff/new-post.png" alt="Email" height="40">
     </a>
     <a href="https://www.linkedin.com/in/yigang-park/" target="_blank" title="LinkedIn">
@@ -412,3 +412,5 @@ Adaptability is something I’m truly proud of. When I first moved abroad, I wor
 
 
 ---
+
+
